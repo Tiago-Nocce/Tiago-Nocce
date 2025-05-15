@@ -1,9 +1,11 @@
 ## Hi there, I'm Tiago Nocce! 👋
-🗺️ I'm a software developer
-🔧 I'm currently working on personal back-end projects
-🌱 I'm currently learning Python and DevOps
-💞 I'm looking to collaborate on open source projects
-🤔 I'm looking for help with clean code and DevOps techniques
+● 🗺️ I'm a software developer
+● 🔧 I'm currently working on personal back-end projects
+● 🌱 I'm currently learning Python and DevOps
+● 💞 I'm looking to collaborate on open source projects
+● 🤔 I'm looking for help with clean code and DevOps techniques
+
+
 Knowledge tools and technologies
 
 <div style="display: inline_block"><br>
