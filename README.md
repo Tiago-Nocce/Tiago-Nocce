@@ -37,7 +37,7 @@
 
 ## Profile status
 
-<div style="display: flex; align-items: center; gap: 20px;">      
+<div style="display: flex; align-items: center; gap: 50px;">      
   <img src="https://github-readme-stats.vercel.app/api?username=Tiago-Nocce&include_all_commits=true&count_private=true&show_icons=true&theme=radical&cache_seconds=1800" alt="Nocce's GitHub stats" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-Nocce&layout=donut&langs_count=8&hide=css&theme=radical&title_color=ffffff&text_color=ffffff&icon=github" alt="Top Langs" height="180">
 </div>
