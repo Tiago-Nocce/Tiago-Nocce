@@ -4,8 +4,8 @@
     
     
 - 🗺️ I'm a **Information Systems Student**
-- 🔧 I'm currently working on personal back-end projects
-- 🌱 I'm currently learning **Python and DevOps**
+- 🔧 I'm currently working on personal Front-end projects
+- 🌱 I'm currently learning **Full Stack Development**
 
     <!--
     - 💬 Ask me about: ...
