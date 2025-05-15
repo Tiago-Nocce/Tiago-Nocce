@@ -37,5 +37,5 @@
 
 <div style="display: flex; align-items: center; gap: 20px;">      
   <img src="https://github-readme-stats.vercel.app/api?username=Tiago-Nocce&include_all_commits=true&count_private=true&show_icons=true&theme=dark&cache_seconds=1800" alt="Nocce's GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-Nocce&layout=donut&langs_count=8&hide=css&theme=dark&title_color=ffffff&text_color=ffffff&icon=github" alt="Top Langs" height="140">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-Nocce&layout=donut&langs_count=8&hide=css&theme=dark&title_color=ffffff&text_color=ffffff&icon=github" alt="Top Langs" height="120">
 </div>
