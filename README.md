@@ -4,7 +4,7 @@
     
     
 - 🗺️ I'm a **Information Systems Student**
-- 🔧 I'm currently working on personal Front-end projects
+- 🔧 I'm currently working on personal **Front-end projects**
 - 🌱 I'm currently learning **Full Stack Development**
 
     <!--
