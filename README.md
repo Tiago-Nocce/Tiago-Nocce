@@ -6,8 +6,7 @@
 - 🗺️ I'm a **software developer**
 - 🔧 I'm currently working on personal back-end projects
 - 🌱 I'm currently learning **Python and DevOps**
-- 💞 I'm looking to collaborate on **open source projects**
-- 🤔 I'm looking for help with **clean code and DevOps techniques**
+
     <!--
     - 💬 Ask me about: ...
     - 📧 How to contact me: ...
